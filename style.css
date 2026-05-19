@@ -108,7 +108,7 @@ main p {
   margin: 30px 0px;
 }
 
-main > h1 {
+main h1 {
   font-family: var(--font-android);
   color: var(--color-05);
   font-weight: normal;
